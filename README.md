@@ -1,0 +1,1 @@
+# leetcode_capital_gain_loss_sql
